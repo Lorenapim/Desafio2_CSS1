@@ -1,0 +1,46 @@
+h1 {
+  margin: 0;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.principal {
+  background-image: url("../img/header.png");
+  background-position: center;
+  height: 140px;
+  background-size: cover;
+  padding: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.span-principal {
+  font-weight: lighter;
+}
+.principal p {
+  font-size: 20px;
+}
+.productos {
+  width: 80%;
+  margin: auto;
+  font-size: 18px;
+}
+.productos td {
+  width: 50%;
+  padding: 80px;
+}
+.productos img {
+  width: 100%;
+}
+.producto-descripcion {
+  font-size: 17px;
+  font-weight: lighter;
+}
+.footer {
+  background-color: rgb(245, 245, 243);
+  height: 50px;
+}
+.footer p {
+  margin: 0;
+  line-height: 50px;
+  text-align: center;
+  font-weight: bolder;
+}
